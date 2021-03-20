@@ -27,9 +27,9 @@ Removes clutter from your pull request by automatically marking as viewed files 
 
 Installs: 14 | Stars: 3 | Last update: 7 Jul 2020
 
-### [CodeWyng](https://github.com/CodeWyng/codewyng) <a href="https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [CodeWing](https://github.com/codewing-dev/codewing) <a href="https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definition, and find-references.
+Next level code navigation for GitHub.
 
 Installs: 114 | Stars: 14 | Last update: 14 Mar 2021
 
